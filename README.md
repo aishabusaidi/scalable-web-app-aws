@@ -11,7 +11,7 @@ This project demonstrates how to deploy a **highly available and scalable web ap
 ## Architecture Type
 
 **EC2-based Scalable Web Application**
-
+![Diagram](manara-project.png)
 ---
 
 ## AWS Services Used
