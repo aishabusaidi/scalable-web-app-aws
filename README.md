@@ -1,5 +1,3 @@
-
-# Project Documentation  
 ## Scalable Web Application with ALB and Auto Scaling
 
 ---
